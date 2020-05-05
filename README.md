@@ -1,2 +1,2 @@
 # pyJunk
-Some scripts about Cantor sets and low pass filters or something
+Some scripts about Cantor sets, low pass filters, etc
